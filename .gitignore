@@ -60,7 +60,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # compiled
 dist
@@ -68,3 +67,4 @@ docs
 
 # sandboxes
 sandboxes/
+config.bat
